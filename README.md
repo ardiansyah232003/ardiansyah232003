@@ -10,7 +10,7 @@ Life
 
 :shipit: [**SMK Mahadhika 4 Jakarta**][ur] 
 computer network engineering '21 
-:shipit: [**Universitas Pertiwi**] Sastra Inggris
+:shipit: [**Universitas Pertiwi**] Sastra Inggris '21 - now
 
 Skills
 ------
@@ -26,12 +26,6 @@ Skills
 
 ###### Learning: Express JS, Angular, software engineering, full-stack web development
 
-Sponsors
---------
-
-Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
-
-[brettz9]: http://brett-zamir.me
 
 - - -
 
