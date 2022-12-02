@@ -8,7 +8,7 @@ Life
 
 <img align="right" src="scene.png">
 
-:shipit: [**SMK Mahadhika 4 Jakarta**][ur] 
+:shipit: [**SMK Mahadhika 4 Jakarta**] 
 computer network engineering '21 
 :shipit: [**Universitas Pertiwi**] English Literature '21 - now
 
@@ -16,7 +16,6 @@ Skills
 ------
 
 :coffee:         **PHP**, Codeigniter, Laravel
-
 :sunglasses:     **CSS**, Bootstrap, Tailwind  
 :sunglasses:     **JavaScript**, Vue, React, angular   
 :paintbrush:     [Mikrotik] , [Cisco]   
