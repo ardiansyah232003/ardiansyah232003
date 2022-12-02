@@ -19,7 +19,7 @@ Skills
 :sunglasses:     **CSS**, Bootstrap, Tailwind  
 :sunglasses:     **JavaScript**, Vue, React, angular   
 :paintbrush:     [Mikrotik] , [Cisco]   
-:pick:           NeoVim, Linux, Bash, command line, `tmux`
+:pick:           Github, Linux, Bash, command line, `tmux`
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
