@@ -1,4 +1,4 @@
-Hi, I'm Zach :wave:
+Hi, I'm Ardiansyah :wave:
 ===================
 
 Fullstack Developer, Network Administrator, and IT Support.
@@ -8,21 +8,15 @@ Life
 
 <img align="right" src="img/scene.png">
 
-:shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**42tm**][42tm] founder & software engineer  
-:shipit: [**UR CSUG**][csug] tutoring chair  
-:shipit: [**DandyHacks**][dandyhacks] 2021 First Place winner, 2022 organizer
-
-[ur]: https://rochester.edu
-[42tm]: https://github.com/42tm
-[csug]: https://ur-csug.org
-[dandyhacks]: https://dandyhacks.net
+:shipit: [**SMK Mahadhika 4 Jakarta**][ur] 
+computer network engineering '21 
+:shipit: [**Universitas Pertiwi**] Sastra Inggris
 
 Skills
 ------
 
 :coffee:         **PHP**, Codeigniter, Laravel 
-:snake:          **CSS**, Bootstrap, Tailwind  
+:php:          **CSS**, Bootstrap, Tailwind  
 :sunglasses:     **JavaScript**, Vue, React,   
 :paintbrush:     [Mikrotik] , [Cisco]   
 :pick:           NeoVim, Linux, Bash, command line, `tmux`
