@@ -6,7 +6,7 @@ Fullstack Developer, Network Administrator, and IT Support.
 Life
 ----
 
-<img align="right" src="img/scene.png">
+<img align="right" src="scene.png">
 
 :shipit: [**SMK Mahadhika 4 Jakarta**][ur] 
 computer network engineering '21 
@@ -34,21 +34,21 @@ Skills
 </a>-->
 
 <a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
 
 <a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+    <img height="32" align="left" alt="Buy Me a Coffee" src="paypal.png" />
 </a>
 
 <a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+    <img height="32" align="left" alt="Buy Me a Coffee" src="buymeacoffee.png" />
 </a>
 
 <a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Twiter" src="img/icons/twiter.png" />
+    <img height="32" align="left" alt="Twiter" src="twiter.png" />
 </a>
 
 <a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="instagram.png" />
 </a>
