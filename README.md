@@ -10,7 +10,7 @@ Life
 
 :shipit: [**SMK Mahadhika 4 Jakarta**][ur] 
 computer network engineering '21 
-:shipit: [**Universitas Pertiwi**] Sastra Inggris '21 - now
+:shipit: [**Universitas Pertiwi**] English Literature '21 - now
 
 Skills
 ------
