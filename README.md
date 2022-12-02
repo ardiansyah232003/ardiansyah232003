@@ -37,18 +37,14 @@ Skills
     <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
+<a href="https://www.buymeacoffee.com/ardiansyah?new=1">
     <img height="32" align="left" alt="Buy Me a Coffee" src="buymeacoffee.png" />
 </a>
 
-<a href="https://liberapay.com/cszach">
+<a href="https://twitter.com/Ardiansyahh_2?t=cNIPJ9Xj5l1vvyqWKq0RWQ&s=09">
     <img height="32" align="left" alt="Twiter" src="twiter.png" />
 </a>
 
-<a href="https://www.instagram.com/thechonkypenguin">
+<a href="https://www.instagram.com/ardi.ansyahh3/?next=%2F&hl=id">
     <img height="32" align="left" alt="Instagram" src="instagram.png" />
 </a>
