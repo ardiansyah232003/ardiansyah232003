@@ -33,7 +33,7 @@ Skills
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/ardiansyah-ardiansyah-232144207">
     <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
 
