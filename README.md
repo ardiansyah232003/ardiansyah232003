@@ -16,8 +16,8 @@ Skills
 ------
 
 :coffee:         **PHP**, Codeigniter, Laravel 
-:sunglasses:          **CSS**, Bootstrap, Tailwind  
-:sunglasses:     **JavaScript**, Vue, React,   
+:sunglasses:     **CSS**, Bootstrap, Tailwind  
+:sunglasses:     **JavaScript**, Vue, React, angular   
 :paintbrush:     [Mikrotik] , [Cisco]   
 :pick:           NeoVim, Linux, Bash, command line, `tmux`
 
