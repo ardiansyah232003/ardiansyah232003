@@ -15,7 +15,8 @@ computer network engineering '21
 Skills
 ------
 
-:coffee:         **PHP**, Codeigniter, Laravel 
+:coffee:         **PHP**, Codeigniter, Laravel
+
 :sunglasses:     **CSS**, Bootstrap, Tailwind  
 :sunglasses:     **JavaScript**, Vue, React, angular   
 :paintbrush:     [Mikrotik] , [Cisco]   
