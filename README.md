@@ -3,7 +3,7 @@
 ###
 
 # 💫 About Me:
-Perkenalkan nama saya Ardiansyah, atau bisa dipanggil Ardi. Saya adalah mahasiswa Sastra yang menyukai programming.  Awal saya tertarik dengan programming sejak saya masih sekolah menengah kejuruan., Walaupun berbeda jurusan dari yang saya ambil saya yakin kalau saya bisa menjadi seorang programmer.
+Introducing my name is Ardiansyah, or you can call me Ardi. I am a Literature student who likes programming. Initially I was interested in programming since I was in vocational high school. Even though it was a different major from the one I took, I was sure that I could become a programmer.
 
 
 ## 🌐 Socials:
