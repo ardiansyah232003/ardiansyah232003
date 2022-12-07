@@ -1,3 +1,6 @@
+<h2 align="left">Hi 👋! My name is Ardiansyah and I'm a Fullstack Developer, from Indonesia</h2>
+###
+
 # 💫 About Me:
 Perkenalkan nama saya Ardiansyah, atau bisa dipanggil Ardi. Saya adalah mahasiswa Sastra yang menyukai programming.  Awal saya tertarik dengan programming sejak saya masih sekolah menengah kejuruan., Walaupun berbeda jurusan dari yang saya ambil saya yakin kalau saya bisa menjadi seorang programmer.
 
